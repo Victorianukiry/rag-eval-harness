@@ -17,4 +17,4 @@
 3. Run the baseline
 4. Use these numbers to gate every future optimization (Level 3)
 
-## Baseline Numbers (YOUR STATS)
+## Baseline Numbers 
